@@ -11,7 +11,7 @@ about:
   links:
     - icon: globe
       text: webpage
-      href: https:/www.researchgate.net/profile/Celine-Boisvenue
+      href: https://www.researchgate.net/profile/Celine-Boisvenue
     - icon: github
       text: GitHub
       href: https://github.com/cboisvenue
